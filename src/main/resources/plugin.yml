@@ -1,0 +1,8 @@
+name: InterpolationTesting
+version: '${project.version}'
+main: com.github.gavvydizzle.interpolationtesting.InterpolationTesting
+api-version: '1.20'
+commands:
+  dit:
+    description: Test command
+    permission: dit.admin
